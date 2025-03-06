@@ -1,0 +1,15 @@
+/vendor/
+/composer.lock
+/.phpunit.result.cache
+/.phpunit.cache/
+/build/
+/.idea/
+/.vscode/
+/.DS_Store
+/node_modules/
+/phpunit.xml.dist
+/coverage/
+/clover.xml
+/phpDocumentor.phar
+/docs/
+/_work/
